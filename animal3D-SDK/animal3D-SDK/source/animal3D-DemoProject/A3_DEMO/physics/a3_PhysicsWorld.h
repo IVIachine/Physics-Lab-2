@@ -20,6 +20,18 @@
 	
 	a3_PhysicsWorld.h
 	Interface for physics world.
+
+	This file was modified by Tyler Chermely with permission from Daniel Buckstein
+	Tyler Chermely 0967813
+	EGP-425-01
+	Lab 2
+	2/08/2018
+
+	I certify that this work is
+	entirely my own. The assessor of this project may reproduce this project
+	and provide copies to other academic staff, and/or communicate a copy of
+	this project to a plagiarism-checking service, which may retain a copy of the
+	project on its database.
 */
 
 #ifndef __ANIMAL3D_PHYSICSWORLD_H
@@ -82,7 +94,6 @@ extern "C"
 		// timer rate
 		double rate;
 
-		// ****TO-DO: add stuff
 		a3_PhysicsWorldState state[1];
 		//---------------------------------------------------------------------
 	};

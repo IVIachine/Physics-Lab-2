@@ -25,6 +25,18 @@ Main implementation of hotloaded callbacks.
 *** THIS IS THE LIBRARY'S CALLBACKS FILE ***
 *** App hooks your demo via this file.   ***
 ********************************************
+
+This file was modified by Tyler Chermely with permission from Daniel Buckstein
+Tyler Chermely 0967813
+EGP-425-01 
+Lab 2
+2/08/2018
+
+I certify that this work is
+entirely my own. The assessor of this project may reproduce this project
+and provide copies to other academic staff, and/or communicate a copy of
+this project to a plagiarism-checking service, which may retain a copy of the
+project on its database.
 */
 
 
